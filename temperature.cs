@@ -149,9 +149,6 @@ class Solution
         }
         return minElement;
     }
-        // Write an answer using Console.WriteLine()
-        // To debug: Console.Error.WriteLine("Debug messages...");
-
         
     }
 }
